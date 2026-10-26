@@ -2,10 +2,6 @@
 <h1 align="center">Hey, I'm Silver 👋</h1>
 
 <p align="center">
-  <i>Developer • Gamer • Tech enthusiast</i>
-</p>
-
-<p align="center">
   Welcome to my GitHub profile!
 </p>
 
