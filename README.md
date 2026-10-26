@@ -14,7 +14,7 @@
 ### 🛠️ Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,c++,css,git,github,linux,MySQL" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,css,git,github,linux,MySQL" />
 </p>
 
 ### 📊 GitHub Stats
