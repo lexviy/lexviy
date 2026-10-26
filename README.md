@@ -13,11 +13,15 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,css,git,github,linux,mysql" />
 </p>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lexviy&show_icons=true&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lexviy&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexviy&layout=compact&theme=github_dark&hide_border=true" />
